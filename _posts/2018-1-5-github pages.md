@@ -3,8 +3,8 @@ layout: article
 title:  "Github Pages的极简教程"
 categories: rwd
 image:
-  teaser: website.jpg
-  feature: file.jpg
+  teaser: git.jpg
+  feature: gitpage.jpg
 
 ---
 
